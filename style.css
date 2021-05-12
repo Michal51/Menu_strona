@@ -1,0 +1,39 @@
+img
+{
+	height: 120px;	
+}
+
+img:hover
+{
+	height:200px;
+}
+
+#main_title
+{
+	width: 300px;
+	background-color: lightgray;
+	font-family: papyrus; 
+}
+
+a:link 
+{
+	font-size: 30px;
+	font-family: papyrus;
+	text-decoration: none;
+	color: lightblue;
+}
+
+a:visited
+{
+	font-size: 30px;
+	font-family: papyrus;
+	text-decoration: none;
+	color: lightblue;
+}
+
+a:hover
+{
+	color: lightgreen;
+	text-decoration: underline;
+}
+
